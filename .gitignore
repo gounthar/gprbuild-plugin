@@ -24,3 +24,4 @@ hs_err_pid*
 # Netbeans project related
 /work/
 /nb-configuration.xml
+/target/
