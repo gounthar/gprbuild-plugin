@@ -4,7 +4,7 @@
     <parent>
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
-        <version>3.4</version>
+        <version>4.51</version>
         <relativePath />
     </parent>
     <groupId>io.jenkins.plugins</groupId>
@@ -12,9 +12,8 @@
     <version>1.1-SNAPSHOT</version>
     <packaging>hpi</packaging>
     <properties>
-        <jenkins.version>2.7.3</jenkins.version>
+        <jenkins.version>2.346.3</jenkins.version>
         <!--<xunit.version>1.102</xunit.version>-->
-        <java.level>7</java.level>
     </properties>
     <name>GPRbuild Plugin</name>
     <description>Build GNAT project with GPRbuild</description>
